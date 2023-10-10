@@ -1,10 +1,11 @@
 # RimmaPy
 
+[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 ![Версия](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 ## Описание
 
-  Данный проект, служит отличным примером того, 
+  Данный проект, показывает то
   насколько простым может быть сбор информации 
   через открытые API сторонних сервисов. 
   
@@ -35,6 +36,14 @@ apt upgrade -y
 apt install git python3 -y
 git clone https://github.com/TheCyberStalker/RimmaPy
 cd RimmaPy
-python3 rms.py (для установки модулей)
+python3 rms.py # Установочный файл
 
-python3 rimma.py (запуск)
+python3 rimma.py # RimmaPy
+```
+
+## Над проектом работали
+- CyberStalker
+- Rimmase
+- Soci3ty
+- ProxitQ
+
