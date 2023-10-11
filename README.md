@@ -1,4 +1,5 @@
-![Rimma](./image/Screenshot_20231011-093710.png)
+![Rimma](./image/Screenshot_20231011-094857.png)
+
 # RimmaPy
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
@@ -48,3 +49,4 @@ python3 rimma.py
 - Soci3ty
 - ProxitQ
 
+![Rimma](./image/Screenshot_20231011-093710.png)
