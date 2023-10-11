@@ -36,9 +36,9 @@ apt upgrade -y
 apt install git python3 -y
 git clone https://github.com/TheCyberStalker/RimmaPy
 cd RimmaPy
-python3 rms.py # Установочный файл
+python3 rms.py
 
-python3 rimma.py # RimmaPy
+python3 rimma.py
 ```
 
 ## Над проектом работали
