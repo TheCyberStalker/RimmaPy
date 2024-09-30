@@ -100,7 +100,7 @@ def logo():
         {green}::{cyan}Soci3ty{green}::            
     
    {bold}{yellow}GitHub{reset}:{cyan} https://github.com/TheCyberStalker
-   {bold}{yellow}Telegram{reset}:{cyan} telegram.dog/CyberStalker1337
+   {bold}{yellow}Telegram{reset}:{cyan} telegram.dog/CyberStalker_1337
    {bold}{yellow}Telegram{reset}:{cyan} telegram.dog/pr0xit
 
                      
@@ -253,7 +253,8 @@ def menu():
     ██║  ██║██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║
     ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
       {yellow}  user: {bold}{cyan}.:{name}:.{reset}
-      {yellow}Telegram{reset}:{bold}{cyan} t.me/CyberStalker1337{reset}
+              телеграм канал старый был удалён, новый указан ниже:
+      {yellow}Telegram{reset}:{bold}{cyan} t.me/CyberStalker_1337{reset}
       {yellow}Совет ➤ {cyan}{textrm.short_cybersec()}                     
 """ + reset)
         print(f"""
